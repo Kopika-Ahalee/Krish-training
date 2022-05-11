@@ -1,0 +1,7 @@
+com\mycompany\factroypattern\SocialmediaFactory.class
+com\mycompany\factroypattern\Instagram.class
+com\mycompany\factroypattern\FaceBook.class
+com\mycompany\factroypattern\SocialMedia.class
+com\mycompany\factroypattern\TikTok.class
+com\mycompany\factroypattern\Twitter.class
+com\mycompany\factroypattern\SocialmediaService.class
